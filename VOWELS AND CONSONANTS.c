@@ -1,5 +1,3 @@
-// C PROGRAM FOR VOWELS AND CONSONANTS
-
 #include <stdio.h>
 int main()
 {
